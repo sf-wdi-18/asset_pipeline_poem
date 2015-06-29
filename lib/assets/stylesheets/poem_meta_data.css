@@ -1,0 +1,7 @@
+.meta {
+  border-left: 4px double black;
+  padding-left: 8px;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
